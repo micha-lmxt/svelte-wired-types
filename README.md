@@ -14,11 +14,12 @@ import "svelte-wired-types";
 ```
 
 Now you should have see type information for wired-elements component, eg. when you hover over wired-button:
-``javascript
+```javascript
  //App.svelte
  <script lang="ts">
   import "wired-elements";
  </script>
+ 
 <main>
   <wired-card elevation={5} fill={"#99A8B5"}>
     <wired-button elevation={2} >Submit</wired-button>
