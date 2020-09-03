@@ -13,7 +13,7 @@ Then put an import somewhere, eg. the main.ts file:
 import "svelte-wired-types";
 ```
 
-Now you should have see type information for wired-elements component, eg. when you hover over wired-button:
+Now you should have see type information in vs code for wired-elements components, eg. when you hover over wired-button:
 ```javascript
  //App.svelte
  <script lang="ts">
