@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Typescript type definition files for wired js with Svelte",
   "main": "index.js",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
